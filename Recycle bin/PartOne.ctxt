@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=PartOne
+comment0.text=\r\n\ Write\ a\ function\ using\ recursion\ to\ print\ numbers\ from\ n\ to\ 0\r\n\ Write\ a\ function\ using\ recursion\ to\ print\ numbers\ from\ 0\ to\ n\ (you\ just\ need\ to\ change\ one\ line\ in\ the\ program\ of\ problem\ 1).\r\n\ Write\ a\ function\ using\ recursion\ that\ takes\ in\ a\ string\ and\ returns\ a\ reversed\ copy\ of\ the\ string.\ The\ only\ string\ operation\ you\ are\ allowed\ to\ use\ is\ string\ concatenation.\ Then\ test\ if\ user\ inputted\ String\ is\ a\ palindrome.\r\n\ Write\ a\ function\ using\ recursion\ to\ check\ if\ a\ number\ n\ is\ prime\ (you\ have\ to\ check\ whether\ n\ is\ divisible\ by\ any\ number\ below\ n)\r\n
+comment1.params=n
+comment1.target=void\ f1(int)
+comment2.params=n
+comment2.target=void\ f2(int)
+comment3.params=s
+comment3.target=java.lang.String\ backwards(java.lang.String)
+comment4.params=oldS\ newS\ i
+comment4.target=java.lang.String\ reverser(java.lang.String,\ java.lang.String,\ int)
+comment5.params=s
+comment5.target=boolean\ palindrome(java.lang.String)
+comment6.params=s\ l\ i
+comment6.target=boolean\ palindrome(java.lang.String,\ int,\ int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
