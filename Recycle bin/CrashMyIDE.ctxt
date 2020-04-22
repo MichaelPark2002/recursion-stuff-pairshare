@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CrashMyIDE
+comment0.text=\r\n\ Crash\ your\ IDE\ by\ running\ an\ infinite\ loop\ of\ squaring\ 2\ and\ squaring\ the\ value\ over\ and\ over\ until\ it\ becomes\ unresponsive\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

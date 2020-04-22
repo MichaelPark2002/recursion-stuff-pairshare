@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Item\ class,\ contains\ data\ of\ each\ item\r\n\r\n\ @Adrian\ Tse\r\n\ @04/20/20\r\n
+comment1.params=price\ isPet\ quantity
+comment1.target=Item(double,\ boolean,\ int)
+comment2.params=
+comment2.target=double\ getPrice()
+comment3.params=
+comment3.target=boolean\ isPet()
+comment4.params=
+comment4.target=int\ getQuantity()
+numComments=5
